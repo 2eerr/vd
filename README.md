@@ -19,7 +19,7 @@ Videoglancer extracts key frames from YouTube videos and organizes them into pro
 ## Features
 
 - **Instant preview** — YouTube card shows thumbnail, title, and duration in real-time
-- **Two extraction methods** — Choose between Time Interval or Scene Detection
+- **Two extraction methods** — Time Interval or Scene Detection with adjustable sensitivity presets (Low/Medium/High)
 - **Smart deduplication** — Automatically removes similar frames using perceptual hashing
 - **Timestamp overlays** — Each frame labeled with its position in the video
 - **Playlist support** — Convert entire playlists in one go
